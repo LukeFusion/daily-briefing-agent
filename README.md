@@ -74,7 +74,7 @@ The briefing uses a consistent HTML design system optimized for mobile email cli
 - **Controlled emoji usage** — weather icons, celebrations, travel markers only
 - Inline CSS, table-based layout for email client compatibility
 
-![Morning Brief Screenshot](assets/morning-brief-screenshot.png)
+![Morning Brief Screenshot](morning-brief-screenshot.png)
 
 ## Components
 
